@@ -8,5 +8,5 @@ Lambda layers with idle Layer objects (tf.keras.layers.Layer).
 
 ## Accuracy
 
-The model seems to have a 70%-80% accuracy in indetifying the person in the image (not that good). So you are wishing to use the JSON model and its weights
+The model seems to have a 70%-80% accuracy in identifying the person in the image (not that good). So you are wishing to use the JSON model and its weights
 for real-world applications, you should add a few more Dense layers and train with a dataset around 6000 - 10000 images, using triplet loss
